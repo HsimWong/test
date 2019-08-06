@@ -2,6 +2,7 @@ ccccccccccccccccc
 cccccccccccccccccc
 cccccccccccccccc
 ddddddddd
+new line inserted
 aaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbbbbb
@@ -15,4 +16,5 @@ ccccccccccccccccccc
 aaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaaaaaaaaa
 ddddddddd
+new line inserted
 aaaaaaaaaaaaaaa
